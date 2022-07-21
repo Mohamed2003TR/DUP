@@ -1,0 +1,43 @@
+body{
+    margin-top: 1%;
+}
+
+.clothes{
+    height:10%;
+    width: 15%;
+}
+p ,h3,span{
+    font-family: 'Press Start 2P', cursive;
+
+}
+#chk-link{
+    text-decoration: none;
+}
+#heart{
+    width: 3.5%;
+}
+
+#heart-svg{
+    width: 100%;
+    height: 100%;
+
+}
+.container span{
+    font-family: monospace;
+
+}
+#chk{
+    display: flex;
+align-items: flex-end;}
+header{
+    margin-left: 50%;
+    top: 0;
+    position: sticky;
+}
+#tax{
+    font-size: xx-small;
+}
+.card{
+    border: 5px black;
+    margin-top: 10px;
+}
